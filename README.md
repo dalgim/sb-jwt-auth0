@@ -14,6 +14,7 @@ For more info check [Link] https://auth0.com/blog/securing-spring-boot-with-jwts
 ``
 
 Server returns success and signed authorization header.
+
 ``
 Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTQ5OTIwNzMwM30.iYVqa5zV8gBQbQaK1j9nboxagF9wWWyy1YoB7D-QVHeZBxLuSbuc3AAjZ1vJ8OC7XlwfbDFUGWb_uh10kRnfAQ
 ``
