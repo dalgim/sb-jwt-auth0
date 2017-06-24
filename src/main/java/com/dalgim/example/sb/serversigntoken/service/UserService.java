@@ -2,7 +2,6 @@ package com.dalgim.example.sb.serversigntoken.service;
 
 import com.dalgim.example.sb.serversigntoken.model.User;
 import org.springframework.stereotype.Service;
-
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
